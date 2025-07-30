@@ -1,12 +1,4 @@
 
-
-<div  style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-
-<a  href="https://github.com/ridoan777"  target="_blank"><img  src="https://avatars.githubusercontent.com/u/142349129?v=4"  width="400"  alt="Laravel Logo"></a>
-
-</div>
-
-  
   
   
 
