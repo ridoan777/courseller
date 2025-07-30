@@ -1,5 +1,5 @@
    <x-partials.header />
-<body>
+<body class="bg-gray-800">
    <x-partials.navbar />
 
    <div class="p-8">
