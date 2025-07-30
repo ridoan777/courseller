@@ -1,0 +1,65 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+
+@theme {
+    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+        'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+/* buttons */
+
+.addButton, .saveButton{
+    padding: 8px 16px;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+}
+
+.addButton{
+    background-color: #155dfc;
+}
+.addButton:hover{
+    background-color: #1447e6;
+}
+
+.saveButton{
+    background-color: #16a34a;
+}
+.saveButton:hover{
+    background-color: #15803d;
+}
+
+.deleteButton{
+    padding: 4px 8px;
+    text-align: center;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    background-color: #dc2626;
+}
+.deleteButton:hover{
+    background-color: #b91c1c;
+}
+
+/* inputs */
+.textInput {
+  background-color: #f9fafb;
+  border: 1px solid #d1d5db;
+  color: #111827;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  border-radius: 0.5rem;
+  display: block;
+  width: 100%;
+  padding: 0.625rem;
+}
+
+.textInput:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.5);
+}
