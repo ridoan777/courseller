@@ -1,4 +1,5 @@
 
+
 <div  style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
 <a  href="https://github.com/ridoan777"  target="_blank"><img  src="https://avatars.githubusercontent.com/u/142349129?v=4"  width="400"  alt="Laravel Logo"></a>
@@ -11,7 +12,7 @@
 
 ## About This Project
 
-  
+
 
 I name this project <b>Courseller</b>, assigned by <b>SoftVence</b>, <b style="color:#0000ff;">Courseller</b> is a course management application.
 
@@ -31,10 +32,16 @@ Its features include:
 - Full validation support
 - Error & success handling in old school way with messages
 
-  
- 
-  
+## Screenshots
 
+   <b>Homepage</b>
+  <a  href="https://github.com/ridoan777/courseller/blob/master/public/images/sample-homepage.png"  target="_blank"><img  src="https://github.com/ridoan777/courseller/blob/master/public/images/sample-homepage.png"   width="400"  alt="Home"></a>
+  
+   <b>Create Course</b>
+  <a  href="https://github.com/ridoan777/courseller/blob/master/public/images/sample-create_course.png"  target="_blank"><img  src="https://github.com/ridoan777/courseller/blob/master/public/images/sample-create_course.png"  width="400"  alt="Create Course"></a>
+  
+   <b>Message</b>
+  <a  href="https://github.com/ridoan777/courseller/blob/master/public/images/sample-validation_message.png"  target="_blank"><img  src="https://github.com/ridoan777/courseller/blob/master/public/images/sample-validation_message.png"  width="400"  alt="Message"></a>
 ## Contributor
 
   
